@@ -1,5 +1,4 @@
 # html-map
-Example HTML &lt;map> Tag
 
 To map the image:
 https://www.image-map.net/
